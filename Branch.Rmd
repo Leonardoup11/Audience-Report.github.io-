@@ -6,6 +6,8 @@ output: html_document
 
 <br/><br/><br/>
 
+## {.tabset .tabset-pills}
+
 ### Division 1 
 
 <br/><br/>
